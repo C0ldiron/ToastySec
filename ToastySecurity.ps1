@@ -13,7 +13,7 @@
 
  		Authors:
 			Adam "Zydr4te" Morris
-			Kelvin "grepnoir" Ashton
+			Kelvin "C0ldiron" Ashton
 
 		Purpose:
 			This tool kit is built for security/system administrators
